@@ -1,6 +1,7 @@
-def get_column(file_name, query_column, query_value, result_column):
+def get_column(file_name, query_column, query_value, result_column=1):
     """
     Gets values from a CSV file where one column matches a search value
+    result_column defaults to 1 if not specified
     """
     results = []  # array to store matching values
     
