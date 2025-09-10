@@ -1,0 +1,7 @@
+# Don't commit the CSV data file
+Agrofood_co2_emission.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
