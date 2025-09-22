@@ -1,5 +1,7 @@
 from my_utils import get_column
 
+# AI Usage: Parameter structure and function call fixing developed with Claude AI assistance
+
 country = 'United States of America'
 country_column = 0  # countries are in column 0, not 1
 fires_column = 4
